@@ -1,8 +1,10 @@
-# Doct-i: Your Virtual Healthcare Assistant 🩺🤖
+# Doct-i: Your Virtual Healthcare Assistant 🩺🤖  
 
-![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)
-![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue)
-![AI Powered](https://img.shields.io/badge/AI-Powered-orange)
+[![GitHub Repository](https://img.shields.io/badge/Repo-View%20on%20GitHub-blue)](https://lnkd.in/gUJUF2hn)  
+
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)  
+![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue)  
+![AI Powered](https://img.shields.io/badge/AI-Powered-orange) 
 
 Doct-i is a full-stack AI healthcare platform designed to make early diagnosis, doctor access, and health support smarter and more accessible for everyone. This project, created by a team of 4 passionate innovators, won a hackathon and has been recognized in several other competitions.
 
