@@ -57,23 +57,14 @@ Doct-i is a full-stack AI healthcare platform designed to make early diagnosis, 
 
 ---
 
-## 🎯 What We Learned
-While we excelled in delivering a functional and impactful solution with real-world applications, we identified UI/UX as a key area for future improvement.
+## 🏆 Your Contributions
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js
-- Python 3.x
-- MongoDB
-- Firebase account
-- Ngrok for chatbot integration
-
-### Installation
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/Doct-i.git
-   cd Doct-i
+As the **AI/ML Engineer & Researcher**, you have made significant contributions to the project, including:  
+1. **Disease Prediction Using Random Forest**  
+   Developed an ML model to predict the top 7 diseases with probabilities.  
+2. **Skin Disease Detection**  
+   Created a TensorFlow-based image recognition model for diagnosing skin diseases.  
+3. **Smart Doctor Recommendation Engine**  
+   Designed an average weighted scoring model for recommending doctors based on specialty, ratings, and location.  
+4. **Symptom Assessment Chatbot**  
+   Built an NLP-powered chatbot using Dialogflow, Flask
