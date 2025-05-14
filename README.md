@@ -37,7 +37,7 @@ Doct-i is a full-stack AI healthcare platform designed to make early diagnosis, 
   Generates a report based on BMI and health parameters.
 - ✅ **Insurance Info Page**  
   Offers guidance on accessing and claiming health insurance.
-- ✅ **Emergency Hospital Locator** *(In Progress)*  
+- ✅ **Emergency Hospital Locator**  
   Uses OpenStreetMap API to locate nearby emergency services.
 
 ---
@@ -53,7 +53,7 @@ Doct-i is a full-stack AI healthcare platform designed to make early diagnosis, 
 3. **Random Forest & TensorFlow** for Prediction Models  
 4. **Firebase** for Authentication and Storage  
 5. **Dialogflow + Flask + Ngrok** for the Chatbot  
-6. **OpenStreetMap API** *(Planned)*  
+6. **OpenStreetMap API**  
 
 ---
 
